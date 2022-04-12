@@ -106,13 +106,13 @@
 
 
 .container {
-  padding: 20px;
+  padding: 2px;
   background-color: #9CD6C5 ;
 }
 
 input[type=text], input[type=submit] {
   width: 100%;
-  padding: 12px;
+  padding: 2px;
   margin: 8px 0;
   display: inline-block;
   border: 3px solid #F1A1A1 ;
@@ -121,7 +121,7 @@ input[type=text], input[type=submit] {
 
 /* Add margins to the checkbox */
 input[type=checkbox] {
-  margin-top: 16px;
+  margin-top: 6px;
 }
 
 /* Style the submit button */
