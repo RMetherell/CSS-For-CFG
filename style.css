@@ -114,14 +114,14 @@
 input[type=text], input[type=submit] {
   width: 60%;
   padding: 2px;
-  margin: 8px 0;
-  display: inline-block;
+  margin: 0;
+  display: block
   border: 3px solid #F1A1A1 ;
   box-sizing: border-box;
 }
 
 input[type=checkbox] {
-  margin-top: 6px;
+  margin-top: 0px;
 }
 
 input[type=submit] {
