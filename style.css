@@ -93,13 +93,13 @@
       }      
   
       form {
-        border: 3px solid #f1f1f1;
+        border: 3px solid #CDB7EB;
         font-family: Arial;
       }
       
       .container {
         padding: 20px;
-        background-color: #f1f1f1;
+        background-color:#F4ED96 ;
       }
       
       input[type=text], input[type=submit] {
@@ -107,7 +107,7 @@
         padding: 12px;
         margin: 8px 0;
         display: inline-block;
-        border: 1px solid #ccc;
+        border: 1px solid ;
         box-sizing: border-box;
       }
       
@@ -116,13 +116,14 @@
       }
       
       input[type=submit] {
-        background-color: #04AA6D;
+        background-color: #F1A1A1;
         color: white;
         border: none;
       }
       
       input[type=submit]:hover {
         opacity: 0.8;
+        color:#F4ED96
       }
 
 .footer {
