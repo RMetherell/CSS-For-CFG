@@ -106,34 +106,6 @@
 
 
 
-.container {
-  padding: 2px;
-  background-color: #9CD6C5 ;
-}
-
-input[type=text], input[type=submit] {
-  width: 60%;
-  padding: 2px;
-  margin: 8px;
-  display: block
-  border: 3px solid #F1A1A1 ;
-  box-sizing: border-box;
-}
-
-input[type=checkbox] {
-  margin-top: 4px;
-}
-
-input[type=submit] {
-  background-color: #A9C5FA;
-  color: black;
-  border: none;
-}
-
-input[type=submit]:hover {
-  background-color: #F4ED96;
-}
-
   
   
 
